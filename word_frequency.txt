@@ -1,0 +1,11 @@
+flu :  399 
+cold :  61 
+hot :  117 
+winter :  383 
+ice :  1344 
+storm :  341 
+safety :  198 
+rain :  415 
+snow :  431 
+canada :  432 
+indoor :  245 
